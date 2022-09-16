@@ -1,5 +1,5 @@
-This luggage belongs to:
+This luggage belongs to:  
 
-Rob Pitingolo
-text: 216-367-9303
-email: rpitingolo@gmail.com
+Rob Pitingolo  
+text: 216-367-9303  
+email: rpitingolo@gmail.com  
